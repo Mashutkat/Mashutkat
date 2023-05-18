@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mashutkat
 - 👀 I’m interested in Python or HTML and CSS
-- 🌱 I’m currently learning anime manga
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on html or python
 - 📫 How to reach me Mashutka@duck.com
 
